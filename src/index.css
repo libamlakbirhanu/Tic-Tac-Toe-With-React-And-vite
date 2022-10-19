@@ -39,3 +39,13 @@ body {
   top: 80%;
   background-repeat: repeat;
 }
+
+@media screen and (max-width: 720px) {
+  .splash2 {
+    display: none;
+  }
+
+  .splash3 {
+    display: none;
+  }
+}
